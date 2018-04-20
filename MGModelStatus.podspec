@@ -133,4 +133,6 @@ Pod::Spec.new do |s|
   s.xcconfig = { "SWIFT_VERSION" => "3" }
   # s.dependency "JSONKit", "~> 1.4"
 
+s.swift_version = '= 3.0'
+
 end

@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "MGModelStatus"
   s.version      = "1.0.0"
-  s.swift_version = '>= 3.2, <= 4.0'
+  s.swift = '>= 3.2'
   s.summary      = "Pod demo for learning purpose"
 
   # This description is used to generate tags and improve search results.
